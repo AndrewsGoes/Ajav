@@ -23,7 +23,7 @@ BUILD: emsdk 4.0.23
 LOCATION: MAIN_FOLDER
 ```
 
-Run compile.sh to compile the main menu
+Run compile.sh to compile the main menu \\
 Run ../game_compile.sh in game folder to compile the game
 
 **Optional:**
