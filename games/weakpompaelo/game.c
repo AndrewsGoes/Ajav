@@ -30,10 +30,10 @@ static void UpdateDrawFrame(void){
 			player.y -= 2;
 		}
 		if(IsKeyDown(KEY_RIGHT)){
-			player.x += 2;
+			player.x -= 2;
 		}
 		if(IsKeyDown(KEY_LEFT)){
-			player.x -= 2;
+			player.x += 2;
 		}
 
 		camera.target = (Vector2){player.x, player.y};
@@ -43,6 +43,6 @@ static void UpdateDrawFrame(void){
 				DrawRectangle(400, 400, 50, 50, WHITE);
 				DrawRectangleRec(player, RED);
 			EndMode2D();
-			DrawText("hello, world", 0, 0, 10, WHITE);
+			DrawText("jogo teste, nao esta completo ainda!", 0, 0, 10, WHITE);
 		EndDrawing();
 }

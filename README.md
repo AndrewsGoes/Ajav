@@ -30,6 +30,7 @@ Run ../game_compile.sh in game folder to compile the game
 **Optional:**
 
 Change title website: raylib/src/minshell.html -> ```<title>```
+
 Change css game: raylib/src/minshell.html -> ```<style> -> body```
 
 ## Run
