@@ -8,7 +8,8 @@ Ajav is friv alternative with C/Raylib
 
 ### WeakPompaelo
 ![WeakPompaelo](resources/games/weakpompaelo.png)
-Based in Poplona
+
+Based in PowerPoplona
 
 ## Build and compilation
 
