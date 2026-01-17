@@ -1,4 +1,4 @@
-![Ajav_LOGO](resources/main_menu/ajav_logo.png)
+![AjavLOGO](resources/main_menu/ajav_logo.png)
 
 # Ajav (ALPHA)
 
@@ -7,6 +7,7 @@ Ajav is friv alternative with C/Raylib
 ## Games
 
 ### WeakPompaelo
+![WeakPompaelo](resources/games/weakpompaelo.png)
 Based in Poplona
 
 ## Build and compilation
