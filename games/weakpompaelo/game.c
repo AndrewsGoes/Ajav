@@ -44,7 +44,6 @@ static void UpdateDrawFrame(void){
 				DrawRectangleRec(player, RED);
 				DrawText("player", player.x + 6, player.y + 12, 10, BLUE);
 			EndMode2D();
-			DrawText("player", player.x - 20.0f, player.y - 20.0f, 10, DARKGRAY);
-			DrawText("jogo teste, nao esta completo ainda!", 0, 0, 10, WHITE);
+			DrawText("jogo teste, nao esta completo ainda!", 0, 0, 50, WHITE);
 		EndDrawing();
 }
