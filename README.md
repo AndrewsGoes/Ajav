@@ -30,3 +30,7 @@ Run ../game_compile.sh in game folder to compile the game
 
 Change title website: raylib/src/minshell.html -> ```<title>```
 Change css game: raylib/src/minshell.html -> ```<style> -> body```
+
+## Run
+
+Check [Raylib Step 6](https://github.com/raysan5/raylib/wiki/Working-for-Web-(HTML5)#6-test-raylib-game-on-web)
