@@ -79,7 +79,7 @@ static void UpdateDrawFrame(void){
 			if(!pause){
 				DrawText("em producao...", 0, 0, 50, WHITE);
 			}else{
-				DrawText("pausado!", 0, 0, 50, RED);
+				DrawText("pausado! aperte P para continuar", 0, 0, 35, RED);
 			}
 		EndDrawing();
 }
